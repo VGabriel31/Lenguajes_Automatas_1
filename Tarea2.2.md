@@ -2,12 +2,12 @@
 
 Este bot de Telegram permite a los usuarios obtener la lista de canciones de un álbum específico de Kanye West al enviar el nombre del álbum. El bot responde con la lista de canciones correspondientes.
 
-## Codigo
-import logging
-from telegram import Update
-from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
+## Evidencias
 
-# Diccionario con álbumes y canciones de Kanye West
+![Texto alternativo](https://github.com/VGabriel31/Lenguajes_Automatas_1/blob/main/img/telegram1.png)
+
+
+# Codigo
 ```python
 import logging
 from telegram import Update
